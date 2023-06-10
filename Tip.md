@@ -1,0 +1,1 @@
+- Always see whether you can apply size or units in same ration as other. Example if we have base size 16px, can we apply padding 32px etc.
