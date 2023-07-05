@@ -16,3 +16,7 @@
   - Don't mess with tabIndex, unless want to set it to (-1), i.e. remove from tab order
 
   - we can check height of property of our sticky element
+  
+  - we can use different layout modes in media queries as long as html markup remains the same
+
+- Better to use responsiveness from chrome devtools device toolbar
