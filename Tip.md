@@ -20,3 +20,5 @@
   - we can use different layout modes in media queries as long as html markup remains the same
 
 - Better to use responsiveness from chrome devtools device toolbar
+
+- We can add little bit of border-radius to emulate real world objects, that usually don't have sharp corners
