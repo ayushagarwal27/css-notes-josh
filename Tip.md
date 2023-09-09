@@ -22,3 +22,5 @@
 - Better to use responsiveness from chrome devtools device toolbar
 
 - We can add little bit of border-radius to emulate real world objects, that usually don't have sharp corners
+
+- Remove magic space from inline elements,changing to display block
